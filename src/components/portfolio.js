@@ -459,7 +459,7 @@ const Portfolio = () => {
           </div>
         </div>
       </section>
-      ;
+      
       <footer className="footer">
         <p>© {new Date().getFullYear()} Sachin Vijay. All rights reserved.</p>
         <div className="scroll-top" onClick={scrollToTop}>
